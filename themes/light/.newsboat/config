@@ -1,0 +1,16 @@
+bind-key j next
+bind-key k prev
+bind-key J next-feed
+bind-key K prev-feed
+bind-key j down article
+bind-key k up article
+bind-key J next article
+bind-key K prev article
+
+color background black white
+color listnormal green white 
+color listfocus green default
+color info black white 
+color listfocus_unread red default
+color listnormal_unread red white
+color article black white

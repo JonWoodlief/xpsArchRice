@@ -1,0 +1,9 @@
+{
+    "window.titleBarStyle": "native",
+    "python.pythonPath": "/usr/bin/python3",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Solarized Dark",
+    "window.closeWhenEmpty": true,
+    "window.openFilesInNewWindow": "default",
+    "java.errors.incompleteClasspath.severity": "ignore"
+}

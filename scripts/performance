@@ -1,0 +1,4 @@
+#!/bin/bash
+#performance mode
+
+sudo cpupower frequency-set -g performance

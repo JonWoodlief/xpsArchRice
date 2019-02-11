@@ -1,0 +1,4 @@
+#!/bin/bash
+#powersave
+
+sudo cpupower frequency-set -g powersave
