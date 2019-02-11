@@ -8,3 +8,5 @@ This folder contains my scripts and wallpapers and some config files used in my 
 The config files included in this repo are limited to the ones which are changed by my switchthemes script.
 
 Look in xpsDotfiles for the remaining, nonthemed dotfiles
+
+For further information on my switchThemes script, it has it's own repo on my page
